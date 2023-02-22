@@ -69,7 +69,7 @@ namespace RimForge
             Settings.DrawUI(inRect);
         }
 
-        public override string SettingsCategory() => "RimForge";
+        public override string SettingsCategory() => "Power Poles Revived";
 
     }
 }
