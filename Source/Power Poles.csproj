@@ -77,7 +77,6 @@
     <Compile Include="Buildings\PlaceWorker_WallConnector.cs" />
     <Compile Include="Effects\Bezier.cs" />
     <Compile Include="AssemblyInfo.cs" />
-    <Compile Include="UnityHook.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

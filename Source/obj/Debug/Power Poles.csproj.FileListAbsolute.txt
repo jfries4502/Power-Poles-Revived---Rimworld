@@ -8,3 +8,4 @@ D:\Modding\Rimworld\Github Repository\Power Poles Revived - Rimworld\1.4\Assembl
 D:\Modding\Rimworld\Github Repository\Power Poles Revived - Rimworld\Source\obj\Debug\Power Poles.csproj.AssemblyReference.cache
 D:\Modding\Rimworld\Github Repository\Power Poles Revived - Rimworld\Source\obj\Debug\Power Poles.csproj.CoreCompileInputs.cache
 D:\Modding\Rimworld\Github Repository\Power Poles Revived - Rimworld\Source\obj\Debug\Power Poles.dll
+G:\Personal Files\Desktop\Rimworld Mods\Ready For Release\Power Poles Revived - v 1.2 - Tin\1.4\Assemblies\Power Poles.dll
