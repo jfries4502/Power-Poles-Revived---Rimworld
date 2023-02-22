@@ -8,7 +8,7 @@ namespace RimForge.Buildings
         public static Color GetColor(Building building)
         {
             
-            return new Color32(140, 160, 160, 255);
+            return new Color(150 / 255f, 85 / 255f, 11 / 255f);
         }
 
         public override string Name => "RF.PowerPoleName".Translate();

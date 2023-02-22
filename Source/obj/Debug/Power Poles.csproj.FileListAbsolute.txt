@@ -4,3 +4,7 @@ G:\Personal Files\Desktop\Rimworld Mods\Neph Revived Power Poles\1.4\Assemblies\
 G:\Personal Files\Desktop\Rimworld Mods\Decomp\Power Poles\obj\Debug\Power Poles.dll
 G:\Personal Files\Desktop\Rimworld Mods\Neph Revived Power Poles - New Edition - Copy\1.4\Assemblies\Power Poles.dll
 G:\Personal Files\Desktop\Rimworld Mods\Neph Revived Power Poles - v 1.0\1.4\Assemblies\Power Poles.dll
+D:\Modding\Rimworld\Github Repository\Power Poles Revived - Rimworld\1.4\Assemblies\Power Poles.dll
+D:\Modding\Rimworld\Github Repository\Power Poles Revived - Rimworld\Source\obj\Debug\Power Poles.csproj.AssemblyReference.cache
+D:\Modding\Rimworld\Github Repository\Power Poles Revived - Rimworld\Source\obj\Debug\Power Poles.csproj.CoreCompileInputs.cache
+D:\Modding\Rimworld\Github Repository\Power Poles Revived - Rimworld\Source\obj\Debug\Power Poles.dll
